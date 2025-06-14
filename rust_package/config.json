@@ -1,0 +1,22 @@
+{
+  "windows": {
+    "latest": "windows.bat",
+    "other": ""
+  },
+  "linux": {
+    "latest": "linux.sh",
+    "other": ""
+  },
+  "requirements": {
+    "windows": {
+        "latest": [
+            ""
+        ]
+    },
+    "linux": {
+      "latest": [
+        "curl"
+      ]
+    }
+  }
+}

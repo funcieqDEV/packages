@@ -1,0 +1,1 @@
+start https://static.rust-lang.org/dist/rust-1.87.0-i686-pc-windows-msvc.msi
